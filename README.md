@@ -1,0 +1,5 @@
+- 👋 Olá... Sou o Professor Paulo
+- 👀Sou professor da Maga
+- 🌱 Leciono programação, lógica computacional, matemática e física
+- 💞️ Procuro colaborar para a estruturação pedagógica da Maga no PEI.
+- 📫 Contato: pauloterolo@prof.educacao.sp.gov.br ou via whatsapp: (14) 99628-6784.
